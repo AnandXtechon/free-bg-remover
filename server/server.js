@@ -16,7 +16,7 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(cors({
   origin: [
-    "https://free-bg-removal.vercel.app",
+    "https://free-bg-remover-one.vercel.app",
     "http://localhost:5173",
     "https://bg-removal-frontend-beta.vercel.app"
   ],
