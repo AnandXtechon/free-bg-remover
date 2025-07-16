@@ -32,3 +32,8 @@
 .bg-layer {
   background-image: url(/bg_layer.png);
 }
+
+.temp {
+  background: #000;
+  text-align: center;
+}
